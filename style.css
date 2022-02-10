@@ -118,7 +118,7 @@ button:hover{
 }
 #about{
   font-family: 'PT Serif', serif;
-    margin-right: 10px;
+    margin-right: -89px;
   padding-left: 46px;
   font-size: 15px;
    /* padding-top: 55px; */
@@ -182,7 +182,7 @@ border-radius: 50%;
     background-color: #8A624A;
     margin-left: 389px;
     margin-top: 178px;
-    margin-right: 725px;
+    margin-right: 601px;
   }
   #btn{
      margin-top: 37px ;
@@ -225,7 +225,7 @@ border-radius: 50%;
   #choose{
        margin-top:100px;
        text-align: center;
-       margin-left: 347px;
+       margin-left: 400px;
   }
   #para1{
     text-align: center;
@@ -233,7 +233,7 @@ border-radius: 50%;
   }
   #caffbg{
     width: 2118px;
-margin-left: -804px;
+margin-left: -909px;
 height: 550px;
 margin-right: -685px;
 opacity: 0.5px;
@@ -274,7 +274,7 @@ opacity: 0.5px;
 margin-right: 160px;
 border-radius: 5px;
 margin-left: 100px;
-margin-left: -414px;
+margin-left: -454px;
 
   }
   #storyCoffe{
@@ -329,7 +329,7 @@ margin-left: -1044px;
   width: 443px;
   height: 327px;
   margin-top: -273px;
-  margin-left: -331px;
+  margin-left: -428px;
   border: black 2px solid;
 }
 .items{
@@ -337,7 +337,7 @@ margin-left: -1044px;
 }
 #cafbg{
   width: 2118px;
-margin-left: -799px;
+margin-left: -935px;
 margin-top: -193px;
 height: 550px;
 margin-right: -685px;
@@ -365,7 +365,7 @@ font-size: 20px;
 #email{
   text-align: center;
 margin-top: 55px;
-margin-left: 356px;
+margin-left: 233px;
 }
 #name{
   margin-left: -370px;
@@ -421,6 +421,7 @@ margin-left: -462px;
   
   text-align: center;
   margin-top: -296px;
+  margin-left: 222px;
 }
 #para4{
   text-align: center;
@@ -428,6 +429,7 @@ margin-left: -462px;
 }
 #time-section{
   margin-top:42px;
+  margin-left: 232px;
 }
 #para5{
   text-align: center;
@@ -437,7 +439,7 @@ margin-left: -462px;
   width: 135%;
   padding-bottom: 31px;
   padding-top: 36px;
-margin-left: -417px;
+margin-left: -437px;
 margin-top:-10px;
 background-color: #8A624A;;
 }
