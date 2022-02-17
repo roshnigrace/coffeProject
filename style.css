@@ -92,6 +92,11 @@ p{
    
    
 }
+#video{
+  text-align: center;
+  padding-left: 10px;
+  margin-left: -357px;
+}
 .fa{
     font-size: 15px;
 }
